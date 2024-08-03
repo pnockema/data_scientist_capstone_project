@@ -1,4 +1,4 @@
-# Customer classification on Bertelsmann/Arvato dataset
+# Customer classification on Bertelsmann/Arvato datasets
 ## Introduction
 This project is part of the Udacity Data Scientist Nanodegree program.
 
