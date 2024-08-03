@@ -13,7 +13,7 @@ DIAS Attributes - Values 2017.xlsx and DIAS Information Levels - Attributes 2017
 Missing files: Datasets as they were for temporary use only.
 
 ## Datasets
-There are four datasets which were provided by Udacity.
+There are four datasets which were provided by Udacity. Further description in my report and in the Jupyter Notebook.
 
 ## Report
 For further readings you can find my MEDIUM article on this project here:
